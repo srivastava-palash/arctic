@@ -81,7 +81,7 @@ Other basic methods:
 
 ## Arctic Storage Engines
 
-Arctic is designed to be very extensible and currently supports a numer of different use cases. To understand what Arctic is capable of, one must understand the storage models it uses. Arctic currently supports three storage engines
+Arctic is designed to be very extensible and currently supports a number of different use cases. To understand what Arctic is capable of, one must understand the storage models it uses. Arctic currently supports three storage engines
 
 * [TickStore](tickstore.md)
 * [VersionStore](versionstore.md)
